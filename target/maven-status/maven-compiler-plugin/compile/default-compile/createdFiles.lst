@@ -1,0 +1,7 @@
+com\autohome\scheduler\datasource\DataSource2Config.class
+com\autohome\scheduler\mapper\matestore\MatestoreMapper.class
+com\autohome\scheduler\Application.class
+com\autohome\scheduler\mapper\dpm\TableMapper.class
+com\autohome\scheduler\datasource\DataSource1Config.class
+com\autohome\scheduler\entity\DpmTable.class
+com\autohome\scheduler\scheduler\ScheduledTable.class
